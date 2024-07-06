@@ -13,4 +13,4 @@ It will keep links to websites, best practices, and personal observations at a c
 <br/>
 kcwilson06 <br/> 
 created 7/6/2024  <br/>
-for Front End Web Developer Certification course at the [San Diego College of Continuing Education](www.sdcce.edu).
+for Front End Web Developer Certification course at the San Diego College of Continuing Education (www.sdcce.edu).
